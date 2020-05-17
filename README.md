@@ -3,14 +3,14 @@
 ---
 This is our team;
 
-* [Fatih]
+* Fatih
 
-* [Anna]
+* Anna
 
-* [Muhammed]
+* Muhammed
 
-* [Abdul]
+* Abdul
 
-* [Pavel]
+* Pavel
 
-* [Gelila]
+* Gelila
