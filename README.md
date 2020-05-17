@@ -3,7 +3,7 @@
 ---
 This is our team;
 
-* Fatih
+* [Fatih](./Fatih.md)
 
 * Anna
 
