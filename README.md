@@ -9,7 +9,7 @@ This is our team;
 
 * [Muhammed](./Muhammed.md)
 
-* Abdul
+* [Abdul](./Abdul.md)
 
 * Pavel
 
