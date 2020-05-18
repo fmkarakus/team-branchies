@@ -3,14 +3,14 @@
 ---
 This is our team;
 
-* [Fatih](./Fatih.md)
+* [Fatih](./fatih.md)
 
-* [Anna](./Anna.md)
+* [Anna](./anna.md)
 
-* [Muhammed](./Muhammed.md)
+* [Muhammed](./muhammed.md)
 
-* [Abdul](./Abdul.md)
+* [Abdul](./abdul.md)
 
-* Pavel
+* [Pavel](./pavel.md)
 
 * Gelila
