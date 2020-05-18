@@ -13,4 +13,4 @@ This is our team;
 
 * [Pavel](./pavel.md)
 
-* Gelila
+* [Gelila](./gelila.md)
